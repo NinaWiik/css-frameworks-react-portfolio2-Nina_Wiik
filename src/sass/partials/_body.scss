@@ -1,0 +1,62 @@
+.btn-primary {
+    background-color: $orange;
+    color: $white;
+    font-weight: bold;
+    border: 2px solid $orange;
+}
+
+.btn-primary:hover {
+    background-color: white;
+    color: $orange;
+    border: 2px solid $orange;
+}
+
+.packCard {
+    border: 1px solid $orange;
+    padding: 0px 20px 20px 20px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+}
+
+
+.packCard:hover {
+    background-color: #fdf6ec;
+    cursor: pointer;
+}
+
+.firstName {
+    display: inline-block;
+    width: 48%;
+    margin-right: 20px;
+}
+
+.lastName {
+    display: inline-block;
+    width: 48%;
+    
+}
+
+.RowForm {
+    margin: 0 auto;
+}
+
+.col-md-12 {
+    padding: 0;
+}
+
+.errorMessage {
+    color: $orange;
+}
+
+.col-md-3 {
+    padding: 0;
+    padding-right: 20px;
+}
+
+form {
+    margin-bottom: 237px;
+}
+
+.validationForm {
+    color: $blue;
+}

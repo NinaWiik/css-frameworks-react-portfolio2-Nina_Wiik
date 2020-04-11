@@ -1,0 +1,14 @@
+h2 {
+    @include fontSize(28px);
+    margin-top: 20px;
+}
+
+h1 {
+    @include fontSize(26px);
+    
+}
+
+p {
+    font-size: 14px;
+}
+
